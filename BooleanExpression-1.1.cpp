@@ -78,7 +78,7 @@ int findPosInVector(vector<string> v,string s){
 	}
 	return -1;
 }
-//Restituisce vero se è una lettera o un numero
+//Restituisce vero se Ã¨ una lettera o un numero
 bool isANumberOrLetter(char c){
 	int asciiCode = int(c);
 	return (bool)((asciiCode >= 65 && asciiCode<=90) || (asciiCode>= 97 && asciiCode<= 122) || (asciiCode >=48 && asciiCode <= 57));
@@ -414,7 +414,7 @@ int main(int argn, char ** argv){
 	bool values[nSym];
 	cout << endl 
 		 << "---------------------------------------"<<endl
-		 << "---        Tabella di verit         ---"<<endl
+		 << "---        Tabella di verita'       ---"<<endl
 		 << "---------------------------------------"<<endl<<endl
 		 << "Espressione: " << expression << endl << endl;
 		 //Creazione delle statisciche e soluzione di queste con stampa a video
