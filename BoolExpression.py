@@ -3,7 +3,6 @@
     Boolean Expression solver
     Minimising verity table 
     and a general expression
-  GNU 3.0 General Public License
 '''
 from TerminalMenu import MenuCreate
 
