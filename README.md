@@ -1,6 +1,6 @@
 # BoolExpression
 
-***This python program was created for educational purposes.***
+***This python program was created for educational purposes.*** (Is an old code and is not meant to be optimized)
 It is able to read a bool expression, generate a truth table from that, and finaly reduce the input expression in the smallests expressions (one or more).
 You can also indicate how much variable exist and say also what are the solution to set at one.
 
@@ -16,6 +16,6 @@ The algorithms are based on these principles and permitts the minimization of th
 
 ***
 
-Remember to use my library TerminalMenu.py for the User Interface
+Remember to use my library [TerminalMenu.py](https://raw.githubusercontent.com/DomySh/TerminalMenu/master/TerminalMenu.py) for the User Interface, download it and save it in the cloned repository
 
 ***
